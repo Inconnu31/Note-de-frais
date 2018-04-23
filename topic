@@ -1,0 +1,13 @@
+Seance 1 :
+  129  git init
+  130  git add README.MD
+  131  echo "# Note-de-frais" >> README.MD
+  132  git init
+  133  git add README.MD
+  134  ll
+  135  git commit -m "first commit"
+  136  git remote add origin https://githum.com/Inconnu31/Note-de-frais.git
+  137  git push -u origin master
+  138  clear
+  139  git branch
+  140  git st
